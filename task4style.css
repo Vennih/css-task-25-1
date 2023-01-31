@@ -1,0 +1,11 @@
+div{
+    width: 100vw;
+    height: 100vh;
+}
+img{
+    width: 100px;
+    height:100px;
+    position: absolute;
+    top: calc(100% - 50vh);
+    left: calc(100% - 20vw);
+}
